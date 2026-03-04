@@ -7,9 +7,11 @@
 4. Fund-Raising: Angel funds, VC pitch
 5. Establishment: Milestones
 
+---
 ## [PetaSwitch Solutions](https://www.cbinsights.com/company/petaswitch-solutions)
 ![](https://github.com/rkuo2000/AgenticLearning/blob/main/assets/images/PetaSwitch_Solutions.png?raw=true)
 
+---
 ### Patents
 
 #### [Switch fabric capable of aggregating multiple chips and links for high bandwidth operation](https://patents.google.com/patent/US6965602B2/)
