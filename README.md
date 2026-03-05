@@ -56,7 +56,7 @@ What to Learning and How to Learning ?
 `Constructing ...`<br>
 
 ---
-## Evolution (進化) : NewType
+## Evolution (進化) : Newtype
 
 ### prophet (先知)
 **猜想的能力: 預測未來，學對東西** <br>
