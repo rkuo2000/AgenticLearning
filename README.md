@@ -10,4 +10,7 @@
 ### Human Empowerment = Agentic Engineering
 
 #### [OpenCode](https://opencode.ai/)
-![](https://opencode.ai/_build/assets/opencode-min-CiEsORKQ.mp4)
+<video width="640" height="480" controls>
+  <source src="[YOUR_MP4_URL_HERE](https://opencode.ai/_build/assets/opencode-min-CiEsORKQ.mp4)" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
