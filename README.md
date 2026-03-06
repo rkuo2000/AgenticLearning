@@ -20,19 +20,18 @@
 ### Agentic Engineering
 10x productivity, capable of doing entire team's job <br>
 
-#### [OpenClaw]()
+#### [OpenClaw](https://github.com/openclaw/openclaw) （智能體）
 
----
 ### Agentic Learning = 天才式學習
 10x study/research, capable of learning like a genius, **Surpass (後來居上)**<br>
 
 ```
 如何學一年抵四年？
 ```
-* **高中直接能學會大學四年的知識**
-* **大學二年級直接學到能完成專題的能力**
-* **大學四年級直接學到能發表碩士論文的能力**
-* **碩士兩年直接能發表到博士級論文的能力**
+* **高中直接能學會大學四年的科系知識**
+* **大學二年級能達到獨自完成專題的能力**
+* **大學四年級能達到發表碩士論文的能力**
+* **碩士兩年能直接發表博士級論文的能力**
   
 ---
 ## Agentic Learning for EE
@@ -58,9 +57,8 @@ What to Learning and How to Learning ?
 ---
 ## Evolution (進化) : Newtype
 
-### prophet (先知)
+### Prophet (先知)
 **猜想的能力: 預測未來，學對東西** <br>
 
 #### [AI 時代的「新人類」進化論](https://vocus.cc/article/699da14bfd897800012818fc)
 ![](https://images.vocus.cc/f0ad2b7b-b06b-4d35-b86f-4260af66f2c5.png)
-
