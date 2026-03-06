@@ -49,6 +49,8 @@ What to Learning and How to Learning ?
 
 ### Agentic Hardwares
 
+#### [Agentic Device](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/AgenticDevice.md)
+
 #### [Agentic MCU](https://github.com/rkuo2000/EdgeAI-AMB82mini)
 
 `Constructing ...`<br>
