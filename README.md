@@ -47,7 +47,6 @@ What to Learning and How to Learning ?
 
 #### [C++](https://www.w3schools.com/cpp/cpp_intro.asp)
 
----
 ### Agentic Hardwares
 
 #### [Agentic MCU](https://github.com/rkuo2000/EdgeAI-AMB82mini)
