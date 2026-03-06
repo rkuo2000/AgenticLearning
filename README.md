@@ -54,7 +54,10 @@ What to Learning and How to Learning ?
 `Constructing ...`<br>
 
 ---
-## Evolution (進化) : Newtype
+## Evolution (進化) : Newtype （新人類）
+```
+How about 芯人類 ？
+```
 
 ### Prophet (先知)
 **猜想的能力: 預測未來，學對東西** <br>
