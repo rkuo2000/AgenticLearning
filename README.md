@@ -85,7 +85,7 @@ How about 芯人類 ？
 ### Prophet (先知)
 **猜想的能力: 預測未來，做中學** <br>
 
-### [Patent Invention](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/patent_invention.md)** <br>
+### [Patent Invention](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/patent_invention.md)
 
 ---
 ### Agent self-training
