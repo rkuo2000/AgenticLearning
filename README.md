@@ -10,7 +10,7 @@
 #### [Introduction to Agents](https://rkuo2000.github.io/AI-course/lecture/2025/09/15/Agents.html)
 
 ---
-### Human Empowerment with Agentic Coding
+### Human Empowerment using Agentic Coding
 
 #### [Claude](https://claude.ai) : claude-opus-4-6
 
