@@ -16,6 +16,7 @@
 
 #### [OpenCode](https://opencode.ai/)
 
+---
 #### [AutoResearch](https://github.com/karpathy/autoresearch)
 **Project structure**<br>
 ```
