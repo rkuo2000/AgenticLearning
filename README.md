@@ -22,8 +22,9 @@
 
 #### [如何成為世界級的 Agentic 工程師](https://tools.wingzero.tw/article/sn/3809)
 
-#### [OpenClaw](https://github.com/openclaw/openclaw) （智能體）
+![](https://miro.medium.com/v2/resize:fit:720/format:webp/1*yWZcgi24bHe3AZOevKpWmQ.png)
 
+---
 ### Agentic Learning = 天才式學習
 10x study/research, capable of learning like a genius, **Surpass (後來居上)**<br>
 
