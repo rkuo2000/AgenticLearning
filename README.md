@@ -84,7 +84,14 @@ How about 芯人類 ？
 
 ### Prophet (先知)
 **猜想的能力: 預測未來，做中學** <br>
+
+### [Patent Invention](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/patent_invention.md)** <br>
+
+---
+### Agent self-training
+
 #### [MiroFish](https://github.com/666ghj/MiroFisha)
 
+---
 #### [AI 時代的「新人類」進化論](https://vocus.cc/article/699da14bfd897800012818fc)
 ![](https://images.vocus.cc/f0ad2b7b-b06b-4d35-b86f-4260af66f2c5.png)
