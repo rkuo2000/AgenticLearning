@@ -53,7 +53,11 @@ Hi have a look at program.md and let's kick off a new experiment! let's do the s
 * **大學二年級能達到獨自完成專題的能力**
 * **大學四年級能達到發表碩士論文的能力**
 * **碩士兩年能直接發表博士級論文的能力**
-  
+
+### [EdgeAI Assignment](https://github.com/rkuo2000/AgenticLearning/blob/main/EdgeAI_Assignment.md) (發想作業）
+
+### [Patent Invention](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/patent_invention.md) （發明專利)
+
 ---
 ## Agentic Learning for EE
 ```
@@ -84,8 +88,6 @@ How about 芯人類 ？
 
 ### Prophet (先知)
 **猜想的能力: 預測未來，做中學** <br>
-
-### [Patent Invention](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/patent_invention.md)
 
 ---
 ### Agent self-training
