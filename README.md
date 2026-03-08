@@ -3,22 +3,24 @@
 ## Empowerment (賦能)
 把不會的學會，把做不好的做好<br>
 
-### AI Empowerment = Fine-Tune LLM Model
+### AI Empowerment by fine-tuning LLM Model
 
 #### [CodeGen Empowerment](https://empowerment-for-llms.github.io/)
 
 ---
-### Human Empowerment = Agentic Engineering
-
-#### [OpenCode](https://opencode.ai/)
+### Human Empowerment with Agentic Coding
 
 #### [Claude](https://claude.ai) : claude-opus-4-6
+
+#### [OpenCode](https://opencode.ai/)
 
 ---
 ## Transcending (超凡)
 
 ### Agentic Engineering
 10x productivity, capable of doing entire team's job <br>
+
+#### [如何成為世界級的 Agentic 工程師](https://tools.wingzero.tw/article/sn/3809)
 
 #### [OpenClaw](https://github.com/openclaw/openclaw) （智能體）
 
@@ -62,7 +64,8 @@ How about 芯人類 ？
 ```
 
 ### Prophet (先知)
-**猜想的能力: 預測未來，學對東西** <br>
+**猜想的能力: 預測未來，做中學** <br>
+#### [MiroFish](https://github.com/666ghj/MiroFisha)
 
 #### [AI 時代的「新人類」進化論](https://vocus.cc/article/699da14bfd897800012818fc)
 ![](https://images.vocus.cc/f0ad2b7b-b06b-4d35-b86f-4260af66f2c5.png)
