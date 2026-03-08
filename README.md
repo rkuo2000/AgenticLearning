@@ -14,6 +14,21 @@
 
 #### [OpenCode](https://opencode.ai/)
 
+#### [AutoResearch](https://github.com/karpathy/autoresearch)
+**Project structure**<br>
+```
+prepare.py      — constants, data prep + runtime utilities (do not modify)
+train.py        — model, optimizer, training loop (agent modifies this)
+program.md      — agent instructions
+pyproject.toml  — dependencies
+```
+The `program.md` file is essentially a super lightweight "skill".<br>
+
+**Prompt**<br>
+```
+Hi have a look at program.md and let's kick off a new experiment! let's do the setup first.
+```
+
 ---
 ## Transcending (超凡)
 
