@@ -7,6 +7,8 @@
 
 #### [CodeGen Empowerment](https://empowerment-for-llms.github.io/)
 
+#### [Introduction to Agents](https://rkuo2000.github.io/AI-course/lecture/2025/09/15/Agents.html)
+
 ---
 ### Human Empowerment with Agentic Coding
 
@@ -32,7 +34,7 @@ Hi have a look at program.md and let's kick off a new experiment! let's do the s
 ---
 ## Transcending (超凡)
 
-### Agentic Engineering
+### [Agentic Engineering](https://rkuo2000.github.io/AI-course/lecture/2025/09/15/Agentic-Engineering.html)
 10x productivity, capable of doing entire team's job <br>
 
 #### [如何成為世界級的 Agentic 工程師](https://tools.wingzero.tw/article/sn/3809)
