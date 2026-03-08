@@ -54,7 +54,7 @@ Hi have a look at program.md and let's kick off a new experiment! let's do the s
 * **大學四年級能達到發表碩士論文的能力**
 * **碩士兩年能直接發表博士級論文的能力**
 
-### [EdgeAI Assignment](https://github.com/rkuo2000/AgenticLearning/blob/main/EdgeAI_Assignment.md) (發想作業）
+### [Home Assignment](https://github.com/rkuo2000/AgenticLearning/blob/main/EdgeAI_Assignment.md) (發想作業）
 
 ### [Patent Invention](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/patent_invention.md)（發明專利)
 
