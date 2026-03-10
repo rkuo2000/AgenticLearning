@@ -40,7 +40,7 @@ Hi have a look at program.md and let's kick off a new experiment! let's do the s
 
 #### [如何成為世界級的 Agentic 工程師](https://tools.wingzero.tw/article/sn/3809)
 
-![](https://miro.medium.com/v2/resize:fit:720/format:webp/1*yWZcgi24bHe3AZOevKpWmQ.png)
+### [Claw Family](https://github.com/rkuo2000/AgenticLearning/blob/main/ClawFamily.md)
 
 ---
 ### Agentic Learning = 天才式學習
