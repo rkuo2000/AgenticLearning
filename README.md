@@ -42,6 +42,8 @@ Hi have a look at program.md and let's kick off a new experiment! let's do the s
 
 ### [Claw Family](https://github.com/rkuo2000/AgenticLearning/blob/main/ClawFamily.md)
 
+### [OpenFang](https://github.com/RightNow-AI/openfang)
+
 ---
 ### Agentic Learning = 天才式學習
 10x study/research, capable of learning like a genius, **Surpass (後來居上)**<br>
@@ -92,7 +94,7 @@ How about 芯人類 ？
 ---
 ### Agent self-training
 
-#### [MiroFish](https://github.com/666ghj/MiroFisha)
+#### [MiroFish](https://github.com/666ghj/MiroFish)
 
 ---
 #### [AI 時代的「新人類」進化論](https://vocus.cc/article/699da14bfd897800012818fc)
