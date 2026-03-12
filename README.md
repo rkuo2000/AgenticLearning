@@ -1,6 +1,6 @@
 # Agentic Learning
 
-## Empowerment (賦能)
+## Empower (賦能)
 把不會的學會，把做不好的做好<br>
 
 ### AI Empowerment by fine-tuning LLM Model
@@ -33,7 +33,7 @@ Hi have a look at program.md and let's kick off a new experiment! let's do the s
 ```
 
 ---
-## Transcending (超凡)
+## Transcend (超凡)
 
 ### [Agentic Engineering](https://rkuo2000.github.io/AI-course/lecture/2025/09/15/Agentic-Engineering.html)
 10x productivity, capable of doing entire team's job <br>
@@ -41,8 +41,6 @@ Hi have a look at program.md and let's kick off a new experiment! let's do the s
 #### [如何成為世界級的 Agentic 工程師](https://tools.wingzero.tw/article/sn/3809)
 
 ### [Claw Family](https://github.com/rkuo2000/AgenticLearning/blob/main/ClawFamily.md)
-
-### [OpenFang](https://github.com/RightNow-AI/openfang)
 
 ---
 ### Agentic Learning = 天才式學習
@@ -83,19 +81,25 @@ What to Learning and How to Learning ?
 `Constructing ...`<br>
 
 ---
-## Evolution (進化) : Newtype （新人類）
-```
-How about 芯人類 ？
-```
+## Evolve (進化) 
 
 ### Prophet (先知)
 **猜想的能力: 預測未來，做中學** <br>
 
----
-### Agent self-training
-
 #### [MiroFish](https://github.com/666ghj/MiroFish)
 
 ---
+### AI OS
+
+#### [OpenFang](https://github.com/RightNow-AI/openfang)
+
+---
+### Newtype （新人類）
+
 #### [AI 時代的「新人類」進化論](https://vocus.cc/article/699da14bfd897800012818fc)
 ![](https://images.vocus.cc/f0ad2b7b-b06b-4d35-b86f-4260af66f2c5.png)
+
+```
+How about 芯人類 ？
+```
+
