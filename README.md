@@ -40,7 +40,12 @@ Hi have a look at program.md and let's kick off a new experiment! let's do the s
 
 #### [如何成為世界級的 Agentic 工程師](https://tools.wingzero.tw/article/sn/3809)
 
+---
 ### [Claw Family](https://github.com/rkuo2000/AgenticLearning/blob/main/ClawFamily.md)
+
+---
+### Agent OS
+#### [OpenFang](https://github.com/RightNow-AI/openfang)
 
 ---
 ### Agentic Learning = 天才式學習
@@ -87,11 +92,6 @@ What to Learning and How to Learning ?
 **猜想的能力: 預測未來，做中學** <br>
 
 #### [MiroFish](https://github.com/666ghj/MiroFish)
-
----
-### AI OS
-
-#### [OpenFang](https://github.com/RightNow-AI/openfang)
 
 ---
 ### Newtype （新人類）
