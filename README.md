@@ -88,10 +88,16 @@ What to Learning and How to Learning ?
 ---
 ## Evolve (進化) 
 
-### Prophet (先知)
-**猜想的能力: 預測未來，做中學** <br>
+### [Yoyo](https://github.com/yologdev/yoyo-evolve)
 
-#### [MiroFish](https://github.com/666ghj/MiroFish)
+---
+### Prophet (先知)
+**猜想與預測未來** <br>
+
+### [MiroFish](https://github.com/666ghj/MiroFish)
+
+### [PROPHET](https://github.com/TZWwww/PROPHET)
+**Paper**: [PROPHET: An Inferable Future Forecasting Benchmark with Causal Intervened Likelihood Estimation](https://arxiv.org/html/2504.01509v2)<br>
 
 ---
 ### Newtype （新人類）
