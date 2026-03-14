@@ -1,5 +1,5 @@
 # Agentic Learning
-*Learning to advance both AI and Human !*
+*Learning to advance both AI-Agent and Human at the same time!*
 
 ## Empower (賦能)
 
