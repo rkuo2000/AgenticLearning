@@ -1,7 +1,7 @@
 # Agentic Learning
+*Learning to advance both AI and Human !*
 
 ## Empower (賦能)
-把不會的學會，把做不好的做好<br>
 
 ### AI Empowerment by fine-tuning LLM Model
 
@@ -46,6 +46,9 @@ Hi have a look at program.md and let's kick off a new experiment! let's do the s
 ---
 ### Agent OS
 #### [OpenFang](https://github.com/RightNow-AI/openfang)
+
+---
+### Agentic Robot
 
 ---
 ### Agentic Learning = 天才式學習
