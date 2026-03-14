@@ -50,6 +50,13 @@ Hi have a look at program.md and let's kick off a new experiment! let's do the s
 ---
 ### Agentic Robot
 
+**Paper**: [Agentic Robot: A Brain-Inspired Framework for Vision-Language-Action Models in Embodied Agents](https://arxiv.org/html/2505.23450v2)<br>
+**Github**:[https://github.com/Agentic-Robot/agentic-robot](https://github.com/Agentic-Robot/agentic-robot)<br>
+![](https://arxiv.org/html/2505.23450v2/extracted/6518430/Figs/Flow.jpg)
+
+**SAP: Standardized Action Procedure for Coordinated Agentic Control**<br>
+![](https://arxiv.org/html/2505.23450v2/extracted/6518430/Figs/SAP.jpg)
+
 ---
 ### Agentic Learning = 天才式學習
 10x study/research, capable of learning like a genius, **Surpass (後來居上)**<br>
