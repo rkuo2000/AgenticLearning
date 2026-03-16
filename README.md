@@ -56,7 +56,7 @@ Hi have a look at program.md and let's kick off a new experiment! let's do the s
 ![](https://arxiv.org/html/2505.23450v2/extracted/6518430/Figs/SAP.jpg)
 
 ---
-### [透過 MCP 將 Claude Code 連接到工具] 
+### [透過 MCP 將 Claude Code 連接到工具](https://code.claude.com/docs/zh-TW/mcp)
 
 #### [freeCAD-MCP](https://github.com/neka-nat/freecad-mcp)
 
