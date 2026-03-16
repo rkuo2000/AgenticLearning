@@ -1,5 +1,6 @@
 # Agentic Learning
 *Learning to advance both AI-Agent and Human at the same time!*
+[Agents](https://rkuo2000.github.io/AI-course/lecture/2025/09/15/Agents.html)<br>
 
 ## Empower (賦能)
 
@@ -53,6 +54,13 @@ Hi have a look at program.md and let's kick off a new experiment! let's do the s
 **Github**:[https://github.com/Agentic-Robot/agentic-robot](https://github.com/Agentic-Robot/agentic-robot)<br>
 **SAP: Standardized Action Procedure for Coordinated Agentic Control**<br>
 ![](https://arxiv.org/html/2505.23450v2/extracted/6518430/Figs/SAP.jpg)
+
+---
+### [透過 MCP 將 Claude Code 連接到工具] 
+
+#### [freeCAD-MCP](https://github.com/neka-nat/freecad-mcp)
+
+#### [Solidworks-MCP](https://socket.dev/npm/package/solidworks-mcp-server)
 
 ---
 ### Agentic Learning = 天才式學習
