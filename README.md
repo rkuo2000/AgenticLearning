@@ -58,7 +58,7 @@ Hi have a look at program.md and let's kick off a new experiment! let's do the s
 ---
 ### [透過 MCP 將 Claude Code 連接到工具](https://code.claude.com/docs/zh-TW/mcp)
 
-#### [freeCAD-MCP](https://github.com/neka-nat/freecad-mcp)
+#### [FreeCAD-MCP](https://github.com/neka-nat/freecad-mcp)
 
 #### [Solidworks-MCP](https://socket.dev/npm/package/solidworks-mcp-server)
 
