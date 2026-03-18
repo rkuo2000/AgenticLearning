@@ -5,6 +5,9 @@
 ### [OpenClaw](https://github.com/openclaw/openclaw)
 OpenClaw is a personal AI assistant you run on your own devices
 
+### [NemoClaw](https://github.com/NVIDIA/NemoClaw)
+OpenClaw Plugin for OpenShell
+
 ### [NanoClaw](https://github.com/qwibitai/nanoclaw) 
 An AI assistant that runs agents securely in their own containers.
 
@@ -22,4 +25,7 @@ MCU AI Assistant with Telegram & Discord (Ultra-lightweight MCU port of PicoClaw
 
 ### [MimiClaw](https://github.com/memovai/mimiclaw)
 Pocket AI Assistant on a $5 Chip
+
+### [Clawra](https://github.com/SumeLabs/clawra)
+Openclaw as companion
 
