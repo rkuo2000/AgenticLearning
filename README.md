@@ -45,8 +45,11 @@ Hi have a look at program.md and let's kick off a new experiment! let's do the s
 ### [Claw Family](https://github.com/rkuo2000/AgenticLearning/blob/main/ClawFamily.md)
 
 ---
-### Agent OS
+### Agentic OS
+
 #### [OpenFang](https://github.com/RightNow-AI/openfang)
+
+#### [Openclaw-office](https://github.com/wickedapp/openclaw-office)
 
 ---
 ### Agentic Robot
