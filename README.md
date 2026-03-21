@@ -101,7 +101,7 @@
 
 ---
 ### Newtype （新人類）
-`芯人類 ？`
+`芯人類`
 
 #### [AI 時代的「新人類」進化論](https://vocus.cc/article/699da14bfd897800012818fc)
 ![](https://images.vocus.cc/f0ad2b7b-b06b-4d35-b86f-4260af66f2c5.png)
