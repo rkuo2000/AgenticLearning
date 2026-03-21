@@ -29,8 +29,3 @@ Pocket AI Assistant on a $5 Chip (ESP32-S3)
 
 ### [zclaw](https://github.com/tnm/zclaw)
 The smallest possible AI personal assistant for ESP32
-
----
-### [Clawra](https://github.com/SumeLabs/clawra)
-Openclaw as companion
-
