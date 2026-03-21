@@ -67,9 +67,6 @@
 
 ---
 ## Agentic Learning for EE
-```
-What to Learning and How to Learning ?
-```
 
 ### Programming Languages
 
@@ -79,6 +76,7 @@ What to Learning and How to Learning ?
 
 #### [C++](https://www.w3schools.com/cpp/cpp_intro.asp)
 
+---
 ### Agentic Hardwares
 
 #### [Agentic Device](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/AgenticDevice.md)
@@ -103,11 +101,10 @@ What to Learning and How to Learning ?
 
 ---
 ### Newtype （新人類）
+`芯人類 ？`
 
 #### [AI 時代的「新人類」進化論](https://vocus.cc/article/699da14bfd897800012818fc)
 ![](https://images.vocus.cc/f0ad2b7b-b06b-4d35-b86f-4260af66f2c5.png)
 
-```
-How about 芯人類 ？
-```
+
 
