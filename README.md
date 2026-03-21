@@ -26,28 +26,29 @@
 #### [如何成為世界級的 Agentic 工程師](https://tools.wingzero.tw/article/sn/3809)
 
 ---
+### [透過 MCP 將 Claude Code 連接到工具](https://code.claude.com/docs/zh-TW/mcp)
+
+#### [MATLAB MCP-Core-Server](https://github.com/matlab/matlab-mcp-core-server)
+
+#### [FreeCAD MCP](https://github.com/neka-nat/freecad-mcp)
+
+---
 ### [Claw Family](https://github.com/rkuo2000/AgenticLearning/blob/main/ClawFamily.md)
+
+#### [Clawra](https://github.com/SumeLabs/clawra)
+Openclaw as companion
 
 ---
 ### Agentic OS
 
 #### [OpenFang](https://github.com/RightNow-AI/openfang)
 
-#### [Openclaw-office](https://github.com/wickedapp/openclaw-office)
+#### [Openclaw-office](https://github.com/WW-AI-Lab/openclaw-office)
+<iframe width="659" height="384" src="https://www.youtube.com/embed/ACXSFTSlVLY" title="OpenClaw Office Demo — Visual Multi-Agent Digital Twin Workspace" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
-### Agentic Robot
-**Paper**: [Agentic Robot: A Brain-Inspired Framework for Vision-Language-Action Models in Embodied Agents](https://arxiv.org/html/2505.23450v2)<br>
-**Github**:[https://github.com/Agentic-Robot/agentic-robot](https://github.com/Agentic-Robot/agentic-robot)<br>
-**SAP: Standardized Action Procedure for Coordinated Agentic Control**<br>
-![](https://arxiv.org/html/2505.23450v2/extracted/6518430/Figs/SAP.jpg)
-
----
-### [透過 MCP 將 Claude Code 連接到工具](https://code.claude.com/docs/zh-TW/mcp)
-
-#### [FreeCAD-MCP](https://github.com/neka-nat/freecad-mcp)
-
-#### [Solidworks-MCP](https://socket.dev/npm/package/solidworks-mcp-server)
+### [Agentic Robot](https://github.com/Agentic-Robot/agentic-robot)
+![](https://raw.githubusercontent.com/Agentic-Robot/agentic-robot/main/figures/Flow.jpg)
 
 ---
 ### Agentic Learning = 天才式學習
